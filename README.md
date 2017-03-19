@@ -1,6 +1,6 @@
 Application which parses the BT HCI logs and lists all the BT names it discovered over a period of time  
 
 Run as:
-python -f pyshark-analyser.py <log filename>  
+python pyshark-analyser.py -f <log filename>  
 
  
